@@ -4,7 +4,6 @@ Big dick
 <html>
  <head>
   <meta charset="utf-8">
-  <title>Флажки</title>
  </head>
  <body color="red">
  <p align="center">
